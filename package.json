@@ -1,0 +1,28 @@
+{
+  "name": "big-fraction",
+  "version": "0.1.0",
+  "description": "Unlimited precision with BigInt fractions.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kirick13/big-fraction.git"
+  },
+  "keywords": [
+    "fraction",
+    "big",
+    "fraction",
+    "decimal",
+    "big-decimal",
+    "precise",
+    "precision"
+  ],
+  "author": "kirick",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kirick13/big-fraction/issues"
+  },
+  "homepage": "https://github.com/kirick13/big-fraction#readme"
+}
